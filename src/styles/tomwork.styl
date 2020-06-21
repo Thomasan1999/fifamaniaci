@@ -1,0 +1,95 @@
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, button, canvas, caption, center, cite, code, dd, del,
+details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup,
+html, iframe, img, input, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section,
+select, small, span, strike, summary, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, video
+    border 0
+    font inherit
+    font-size 100%
+    margin 0
+    padding 0
+    vertical-align baseline
+
+body
+    line-height 1.5
+
+button:focus, input:focus, select:focus, textarea:focus
+    outline none
+
+button
+    cursor pointer
+    padding 0
+    transition background-color .25s, color .25s
+
+    &:hover
+        background-color transparent
+
+a, button
+    transition background-color .25s, color .25s
+
+a, button
+    font-color inherit
+
+a
+    text-decoration none
+
+p, li, .h
+    a
+        text-decoration underline
+
+button, input, textarea
+    font-type inherit
+
+svg
+    height 100%
+
+input, textarea
+    border 0
+    outline 0
+    overflow auto
+    resize none
+
+input
+    &[type=number], &[type=date]
+        appearance textfield
+        text-align center
+
+        &::-webkit-inner-spin-button,
+        &::-webkit-outer-spin-button
+            appearance none
+            margin 0
+
+    &[type=date]
+        position relative
+
+        &::-webkit-calendar-picker-indicator
+        &::-webkit-clear-button
+            appearance none
+
+        &::-webkit-calendar-picker-indicator
+            height .5em
+            padding .25em
+            position absolute
+            right 0
+            width .5em
+math
+    display inline
+    text-indent 0
+
+mfrac
+    display inline-block !important
+    vertical-align -50%
+    border-collapse collapse
+    text-align center
+
+    & > *
+        display block !important
+
+        &:first-child
+            border-bottom 1px
+
+        & + *
+            display inline-block !important
+            vertical-align top
+
+mi
+    font-size .8em

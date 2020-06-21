@@ -1,0 +1,116 @@
+.matches
+    text-align center
+
+    .table-container
+        padding-bottom 0
+
+    table
+        display block
+
+    tr
+        border-right 2px transparent
+        display flex
+        margin-vertical 4px
+
+    td
+        display block
+
+    for type in $matchesTypes
+        $color = lookup('$' + type)
+
+        .{type}
+            .played-at
+                border-left-color $color
+
+    .played-at
+        border-left 5px
+        padding-left 20px
+
+        @media (max-width 949px)
+            padding-left 10px
+
+        @media (max-width 399px)
+            padding-left 5px
+
+    .home-id
+        margin-right 10px
+
+        @media (max-width 679px)
+            margin-right 9px
+
+        @media (max-width 499px)
+            margin-right 8px
+
+        >>> .username-container
+            justify-content flex-end
+
+    .submit, .delete
+        cursor pointer
+
+    .submit
+        padding-right 5px
+
+        @media (max-width 949px)
+            width 17px
+
+    .delete
+        @media (max-width 949px)
+            width 22px
+
+    .home-canceled, .away-canceled
+        cursor default
+        font-size .75em
+        width (7 / 6)em
+
+        & > div
+            width 100%
+
+        & + label
+            width (7 / 6)em
+
+    td
+        &:nth-last-child(2), &:last-child
+            @media (min-width 950px)
+                width 3%
+
+        &:first-of-type
+            &:after
+                $tableDataActiveHeight = 6px;
+                border-horizontal $tableDataActiveHeight transparent
+                border-left $tableDataActiveHeight #ffffff
+
+    .away-id
+        flex 4.1 0 0
+
+    .home-goals, .away-goals
+        width 20px
+
+        span
+            margin 0
+
+        @media (max-width 869px)
+            width 18px
+
+        @media (max-width 499px)
+            width 16px
+
+        @media (max-width 399px)
+            width 15px
+
+        @media (max-width 359px)
+            width 14px
+
+    .overtime
+        width 10px
+
+        @media (max-width 679px)
+            width 9px
+
+        @media (max-width 499px)
+            width 8px
+
+    .home-tooltip, .away-tooltip
+        width 0
+
+        & > *
+            position absolute
