@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96781792-5"></script>
+    <script>
+        // Google Analytics
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag()
+        {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'UA-96781792-5');
+
+        // Facebook Pixel
+        !function (f, b, e, v, n, t, s)
+        {
+            if (f.fbq)
+            {
+                return;
+            }
+            n = f.fbq = function ()
+            {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+            };
+            if (!f._fbq)
+            {
+                f._fbq = n;
+            }
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s);
+        }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1710105505737126');
+        fbq('track', 'PageView');
+    </script>
+<!--    <script async defer crossorigin="anonymous"-->
+<!--            src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=<%= VUE_APP_FM_FACEBOOK_APP_ID %>&autoLogAppEvents=1"></script>-->
+    <noscript>
+        <img alt="" height="1" width="1" src="https://www.facebook.com/tr?id=1710105505737126&ev=PageView&noscript=1"/>
+    </noscript>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta property="og:title" content="FIFA maniaci">
+    <meta property="og:site_name" content="fifamaniaci.tomaskudlac.sk">
+    <meta property="og:description" content="Portál pre nadšencov hry FIFA">
+    <meta property="og:image" content="https://fifamaniaci.tomaskudlac.sk/img/home-background.jpg">
+    <meta property="og:url" content="https://fifamaniaci.tomaskudlac.sk">
+    <meta name="author" content="FIFA maniaci">
+    <meta name="description" content="Portál pre nadšencov hry FIFA">
+    <meta name="keywords" content="FIFA, FIFA maniaci">
+    <meta name="title" content="FIFA maniaci">
+    <title>FIFA maniaci</title>
+</head>
+<body>
+<noscript>
+    <strong>Je nám ľúto, ale táto stránka nefunguje správne bez povoleného JavaScript-u. Pre pokračovanie ho prosím povoľte.</strong>
+</noscript>
+<div id="app"></div>
+</body>
+</html>

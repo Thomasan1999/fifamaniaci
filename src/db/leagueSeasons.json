@@ -1,0 +1,86 @@
+{
+    "1": {
+        "divisionSize": 20,
+        "month": null,
+        "divisions": {
+            "1": [
+                13
+            ],
+            "3": [
+                15
+            ],
+            "4": [
+                14
+            ]
+        },
+        "playOffEnd": "2019-09-02T21:59:59.999Z",
+        "playOffRoundsLimit": 3,
+        "playOffStart": "2019-08-19T22:00:00.000Z",
+        "playOffWinsLimit": 3,
+        "quarter": 1,
+        "registrationTo": "2019-06-30T21:59:59.999Z",
+        "seasonEnd": "2019-06-30T21:59:59.999Z",
+        "seasonStart": "2019-03-31T22:00:00.000Z"
+    },
+    "2": {
+        "divisionSize": 20,
+        "month": null,
+        "divisions": {
+            "1": [
+                13
+            ],
+            "2": [
+                17
+            ],
+            "3": [
+                15
+            ],
+            "4": [
+                14
+            ],
+            "5": [
+                16
+            ],
+            "6": [
+                18
+            ]
+        },
+        "playOffEnd": "2019-09-29T21:59:59.999Z",
+        "playOffRoundsLimit": 3,
+        "playOffStart": "2019-09-08T22:00:00.000Z",
+        "playOffWinsLimit": 3,
+        "quarter": 2,
+        "registrationTo": "2019-08-25T00:00:00.000Z",
+        "seasonEnd": "2019-09-30T21:59:59.999Z",
+        "seasonStart": "2019-07-07T22:00:00.000Z"
+    },
+    "3": {
+        "divisionSize": 10,
+        "month": 9,
+        "divisions": {
+            "1": [
+                13
+            ],
+            "2": [
+                17
+            ],
+            "3": [
+                15
+            ],
+            "4": [
+                14
+            ],
+            "5": [
+                16
+            ]
+        },
+        "playOffEnd": "2019-10-28T21:59:59.999Z",
+        "playOffRoundsLimit": 2,
+        "playOffStart": "2019-10-21T22:00:00.000Z",
+        "playOffWinsLimit": 2,
+        "quarter": null,
+        "registrationTo": "2019-09-30T21:59:59.999Z",
+        "seasonEnd": "2019-10-28T21:59:59.999Z",
+        "seasonStart": "2019-09-30T22:00:00.000Z"
+    }
+}

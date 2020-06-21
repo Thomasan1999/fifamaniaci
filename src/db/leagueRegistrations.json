@@ -1,0 +1,762 @@
+{
+    "1": {
+        "1": {
+            "3": {
+                "canceled": false,
+                "completed": "2019-03-21T14:59:08.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1536.3794695507952,
+                "userId": 101,
+                "created": "2019-03-21T14:59:08.000Z",
+                "updated": "2019-09-30T21:38:31.791Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "4": {
+                "canceled": false,
+                "completed": "2019-03-29T09:41:57.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 21,
+                "created": "2019-03-29T09:41:57.000Z",
+                "updated": "2019-09-30T21:38:31.791Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "6": {
+                "canceled": false,
+                "completed": "2019-03-31T10:04:54.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 56,
+                "created": "2019-03-31T10:04:54.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "7": {
+                "canceled": false,
+                "completed": "2019-04-02T10:32:07.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 106,
+                "created": "2019-04-02T10:32:07.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "10": {
+                "canceled": false,
+                "completed": "2019-04-29T14:39:34.000Z",
+                "dnfAfterWeeks": 18,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 174,
+                "created": "2019-04-29T14:39:34.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "12": {
+                "canceled": false,
+                "completed": "2019-05-07T14:38:29.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 175,
+                "created": "2019-05-07T14:38:29.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        },
+        "2": {
+            "16": {
+                "canceled": false,
+                "completed": "2019-06-28T19:42:13.761Z",
+                "dnfAfterWeeks": 9,
+                "penaltyPoints": 10,
+                "rating": 0,
+                "userId": 178,
+                "created": "2019-06-28T19:42:03.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "18": {
+                "canceled": false,
+                "completed": "2019-06-28T21:35:12.081Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 180,
+                "created": "2019-06-28T21:34:42.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "19": {
+                "canceled": false,
+                "completed": "2019-06-28T23:09:36.416Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 181,
+                "created": "2019-06-28T23:09:18.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "21": {
+                "canceled": false,
+                "completed": "2019-06-29T15:12:20.688Z",
+                "dnfAfterWeeks": 0,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 182,
+                "created": "2019-06-29T15:12:00.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "22": {
+                "canceled": false,
+                "completed": "2019-06-29T16:09:26.689Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 183,
+                "created": "2019-06-29T15:51:58.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "23": {
+                "canceled": false,
+                "completed": "2019-07-01T20:37:28.078Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 138,
+                "created": "2019-06-30T01:34:14.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "26": {
+                "canceled": false,
+                "completed": "2019-06-30T11:23:34.749Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": 4,
+                "rating": 0,
+                "userId": 185,
+                "created": "2019-06-30T11:20:10.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "28": {
+                "canceled": false,
+                "completed": null,
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 186,
+                "created": "2019-07-01T15:55:12.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": false
+            },
+            "30": {
+                "canceled": false,
+                "completed": "2019-07-02T13:47:06.550Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": 2,
+                "rating": 0,
+                "userId": 188,
+                "created": "2019-07-02T13:46:50.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "32": {
+                "canceled": false,
+                "completed": "2019-07-02T19:47:44.558Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": null,
+                "rating": 1396.41710548669,
+                "userId": 77,
+                "created": "2019-07-02T19:47:44.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "35": {
+                "canceled": false,
+                "completed": "2019-07-03T18:31:40.178Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": null,
+                "rating": 1578.37134106416,
+                "userId": 189,
+                "created": "2019-07-03T18:30:51.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "36": {
+                "canceled": false,
+                "completed": "2019-07-03T20:19:40.690Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1451.22203536277,
+                "userId": 101,
+                "created": "2019-07-03T20:19:40.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": 2,
+                "valid": true
+            },
+            "37": {
+                "canceled": false,
+                "completed": "2019-07-04T05:55:27.709Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 190,
+                "created": "2019-07-04T05:54:58.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "38": {
+                "canceled": false,
+                "completed": "2019-07-04T12:16:02.093Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 173,
+                "created": "2019-07-04T11:38:32.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "39": {
+                "canceled": false,
+                "completed": "2019-07-04T14:26:02.375Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": 2,
+                "rating": 0,
+                "userId": 191,
+                "created": "2019-07-04T14:24:55.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "42": {
+                "canceled": false,
+                "completed": null,
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 192,
+                "created": "2019-07-06T06:40:24.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": null,
+                "valid": false
+            },
+            "43": {
+                "canceled": false,
+                "completed": "2019-07-06T18:38:49.954Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 193,
+                "created": "2019-07-06T18:38:05.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "44": {
+                "canceled": false,
+                "completed": "2019-07-07T16:30:47.979Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 194,
+                "created": "2019-07-07T16:28:04.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "45": {
+                "canceled": false,
+                "completed": "2019-08-11T21:39:29.794Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 195,
+                "created": "2019-08-06T20:50:43.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "46": {
+                "canceled": false,
+                "completed": "2019-08-08T10:20:50.968Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 23,
+                "created": "2019-08-08T10:20:50.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        },
+        "3": {
+            "50": {
+                "canceled": false,
+                "completed": "2019-09-26T05:53:32.880Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1350.9320482671799,
+                "userId": 183,
+                "created": "2019-09-26T05:53:32.000Z",
+                "updated": "2019-10-02T14:55:58.227Z",
+                "finalPosition": 7,
+                "valid": true
+            }
+        }
+    },
+    "2": {
+        "2": {
+            "24": {
+                "canceled": false,
+                "completed": "2019-07-01T20:37:28.078Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 138,
+                "created": "2019-06-30T01:36:19.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        },
+        "3": {
+            "58": {
+                "canceled": false,
+                "completed": "2019-09-30T16:08:29.324Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 190,
+                "created": "2019-09-30T16:08:29.000Z",
+                "updated": "2019-10-02T14:55:58.259Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        }
+    },
+    "3": {
+        "1": {
+            "1": {
+                "canceled": false,
+                "completed": "2019-03-14T15:12:07.000Z",
+                "dnfAfterWeeks": 18,
+                "penaltyPoints": 0,
+                "rating": 1592.8407362088394,
+                "userId": 3,
+                "created": "2019-03-14T15:12:07.000Z",
+                "updated": "2019-09-30T21:38:31.791Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "8": {
+                "canceled": false,
+                "completed": "2019-04-08T14:41:32.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 17,
+                "created": "2019-04-08T14:41:32.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "9": {
+                "canceled": false,
+                "completed": "2019-04-10T07:36:35.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 1,
+                "created": "2019-04-10T07:36:35.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        },
+        "2": {
+            "14": {
+                "canceled": false,
+                "completed": "2019-06-28T11:22:42.156Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1591.95501452378,
+                "userId": 1,
+                "created": "2019-06-28T11:22:42.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": 1,
+                "valid": true
+            },
+            "20": {
+                "canceled": false,
+                "completed": "2019-06-29T05:26:04.271Z",
+                "dnfAfterWeeks": 9,
+                "penaltyPoints": 10,
+                "rating": 1512.01910860889,
+                "userId": 37,
+                "created": "2019-06-29T05:26:04.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "27": {
+                "canceled": false,
+                "completed": "2019-07-01T09:25:21.178Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1509.94716865066,
+                "userId": 182,
+                "created": "2019-07-01T09:25:21.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "31": {
+                "canceled": false,
+                "completed": "2019-07-02T18:57:43.021Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1606.41553778768,
+                "userId": 3,
+                "created": "2019-07-02T18:57:43.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": 3,
+                "valid": true
+            },
+            "34": {
+                "canceled": false,
+                "completed": "2019-07-03T07:23:49.793Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 50,
+                "created": "2019-07-03T07:23:49.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        },
+        "3": {
+            "48": {
+                "canceled": false,
+                "completed": "2019-09-25T21:50:44.831Z",
+                "dnfAfterWeeks": 11,
+                "penaltyPoints": null,
+                "rating": 1549.9514179932978,
+                "userId": 1,
+                "created": "2019-09-25T21:50:44.000Z",
+                "updated": "2019-12-17T10:40:59.131Z",
+                "finalPosition": 2,
+                "valid": true
+            },
+            "51": {
+                "canceled": false,
+                "completed": "2019-09-26T07:42:15.194Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1569.7858852662596,
+                "userId": 182,
+                "created": "2019-09-26T07:42:15.000Z",
+                "updated": "2019-10-02T14:55:58.196Z",
+                "finalPosition": 3,
+                "valid": true
+            },
+            "54": {
+                "canceled": false,
+                "completed": "2019-09-27T04:32:47.846Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1857.8528341069612,
+                "userId": 50,
+                "created": "2019-09-27T04:32:47.000Z",
+                "updated": "2019-10-02T14:55:58.160Z",
+                "finalPosition": 1,
+                "valid": true
+            },
+            "56": {
+                "canceled": false,
+                "completed": "2019-09-30T12:27:19.338Z",
+                "dnfAfterWeeks": 11,
+                "penaltyPoints": null,
+                "rating": 1465.4789104133201,
+                "userId": 3,
+                "created": "2019-09-30T12:27:19.000Z",
+                "updated": "2019-12-18T10:35:12.114Z",
+                "finalPosition": 4,
+                "valid": true
+            },
+            "60": {
+                "canceled": false,
+                "completed": "2019-10-02T11:05:48.920Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 10,
+                "created": "2019-10-02T11:05:48.000Z",
+                "updated": "2019-10-02T11:05:48.923Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        }
+    },
+    "4": {
+        "1": {
+            "2": {
+                "canceled": false,
+                "completed": "2019-03-15T14:23:36.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1599.4798119554841,
+                "userId": 1,
+                "created": "2019-03-15T14:23:36.000Z",
+                "updated": "2019-09-30T21:38:31.791Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "5": {
+                "canceled": false,
+                "completed": "2019-03-29T10:20:18.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1395.8114277925458,
+                "userId": 6,
+                "created": "2019-03-29T10:20:18.000Z",
+                "updated": "2019-09-30T21:38:31.791Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "11": {
+                "canceled": false,
+                "completed": "2019-05-03T14:58:34.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 50,
+                "created": "2019-05-03T14:58:34.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "13": {
+                "canceled": false,
+                "completed": "2019-05-09T11:18:42.000Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 10,
+                "created": "2019-05-09T11:18:42.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        },
+        "2": {
+            "15": {
+                "canceled": false,
+                "completed": "2019-06-28T11:33:28.830Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1515.92032671525,
+                "userId": 1,
+                "created": "2019-06-28T11:33:28.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": 3,
+                "valid": true
+            },
+            "25": {
+                "canceled": false,
+                "completed": "2019-06-30T09:24:38.063Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": 2,
+                "rating": 0,
+                "userId": 184,
+                "created": "2019-06-30T09:19:54.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "33": {
+                "canceled": false,
+                "completed": "2019-07-03T07:20:23.677Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1747.26584715462,
+                "userId": 50,
+                "created": "2019-07-03T07:20:23.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": 1,
+                "valid": true
+            },
+            "47": {
+                "canceled": false,
+                "completed": "2019-08-08T19:02:18.764Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": null,
+                "userId": 10,
+                "created": "2019-08-08T19:02:18.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": 2,
+                "valid": true
+            }
+        },
+        "3": {
+            "49": {
+                "canceled": false,
+                "completed": "2019-09-25T21:50:58.440Z",
+                "dnfAfterWeeks": 11,
+                "penaltyPoints": null,
+                "rating": 1346.198490453507,
+                "userId": 1,
+                "created": "2019-09-25T21:50:58.000Z",
+                "updated": "2019-12-17T10:40:59.131Z",
+                "finalPosition": 3,
+                "valid": true
+            },
+            "52": {
+                "canceled": false,
+                "completed": "2019-09-26T14:42:32.152Z",
+                "dnfAfterWeeks": 11,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 3,
+                "created": "2019-09-26T14:42:32.000Z",
+                "updated": "2019-12-18T10:35:12.114Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "55": {
+                "canceled": false,
+                "completed": "2019-09-27T04:32:52.925Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1888.5499198803716,
+                "userId": 50,
+                "created": "2019-09-27T04:32:52.000Z",
+                "updated": "2019-10-02T14:55:58.144Z",
+                "finalPosition": 1,
+                "valid": true
+            },
+            "57": {
+                "canceled": false,
+                "completed": "2019-09-30T12:56:57.919Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 1702.3667159012625,
+                "userId": 10,
+                "created": "2019-09-30T12:56:57.000Z",
+                "updated": "2019-10-02T14:55:58.172Z",
+                "finalPosition": 2,
+                "valid": true
+            }
+        }
+    },
+    "5": {
+        "2": {
+            "17": {
+                "canceled": false,
+                "completed": "2019-06-28T21:10:28.726Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 179,
+                "created": "2019-06-28T21:10:11.000Z",
+                "updated": "2019-09-30T21:38:31.792Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "29": {
+                "canceled": false,
+                "completed": "2019-07-02T08:25:43.953Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": 2,
+                "rating": 0,
+                "userId": 187,
+                "created": "2019-07-02T08:23:30.000Z",
+                "updated": "2019-09-30T21:38:31.793Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "40": {
+                "canceled": false,
+                "completed": "2019-07-04T14:52:19.062Z",
+                "dnfAfterWeeks": 2,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 2,
+                "created": "2019-07-04T14:52:19.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        },
+        "3": {
+            "53": {
+                "canceled": false,
+                "completed": "2019-09-26T17:57:13.122Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 198,
+                "created": "2019-09-26T17:36:15.000Z",
+                "updated": "2019-10-02T14:55:58.248Z",
+                "finalPosition": null,
+                "valid": true
+            },
+            "59": {
+                "canceled": false,
+                "completed": "2019-09-30T16:28:32.306Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 93,
+                "created": "2019-09-30T16:28:32.000Z",
+                "updated": "2019-10-02T14:55:58.271Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        }
+    },
+    "6": {
+        "2": {
+            "41": {
+                "canceled": false,
+                "completed": "2019-07-04T14:52:31.866Z",
+                "dnfAfterWeeks": null,
+                "penaltyPoints": null,
+                "rating": 0,
+                "userId": 2,
+                "created": "2019-07-04T14:52:31.000Z",
+                "updated": "2019-09-30T21:38:31.794Z",
+                "finalPosition": null,
+                "valid": true
+            }
+        }
+    }
+}

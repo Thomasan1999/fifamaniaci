@@ -1,0 +1,1448 @@
+{
+    "1": {
+        "1": {
+            "13": {
+                "3": {
+                    "divisionId": 13,
+                    "draws": 2,
+                    "form": [
+                        "d",
+                        "l",
+                        "w",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": -2,
+                    "losses": 3,
+                    "matches": 8,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 11,
+                    "score": [
+                        15,
+                        17
+                    ],
+                    "userId": 101,
+                    "wins": 3
+                },
+                "4": {
+                    "divisionId": 13,
+                    "draws": 1,
+                    "form": [
+                        "w",
+                        "l",
+                        "l",
+                        "l",
+                        "l"
+                    ],
+                    "goalDifference": -16,
+                    "losses": 6,
+                    "matches": 8,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 4,
+                    "score": [
+                        11,
+                        27
+                    ],
+                    "userId": 21,
+                    "wins": 1
+                },
+                "5": {
+                    "divisionId": 13,
+                    "draws": 1,
+                    "form": [
+                        "d",
+                        "w",
+                        "w",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 19,
+                    "losses": 0,
+                    "matches": 8,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 22,
+                    "score": [
+                        31,
+                        12
+                    ],
+                    "userId": 56,
+                    "wins": 7
+                },
+                "7": {
+                    "divisionId": 13,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "w",
+                        "l",
+                        "l",
+                        "w"
+                    ],
+                    "goalDifference": 2,
+                    "losses": 5,
+                    "matches": 8,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 9,
+                    "score": [
+                        21,
+                        19
+                    ],
+                    "userId": 106,
+                    "wins": 3
+                },
+                "10": {
+                    "divisionId": 13,
+                    "dnfAfterWeeks": 18,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 174,
+                    "wins": 0
+                },
+                "12": {
+                    "divisionId": 13,
+                    "draws": 2,
+                    "form": [
+                        "l",
+                        "w",
+                        "d",
+                        "l",
+                        "d"
+                    ],
+                    "goalDifference": -3,
+                    "losses": 3,
+                    "matches": 8,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 11,
+                    "score": [
+                        16,
+                        19
+                    ],
+                    "userId": 175,
+                    "wins": 3
+                }
+            },
+            "19": {
+                "52": {
+                    "divisionId": 19,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "l",
+                        "w",
+                        "l",
+                        "w"
+                    ],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 106,
+                    "wins": 0
+                },
+                "53": {
+                    "divisionId": 19,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "w",
+                        "l",
+                        "l"
+                    ],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 21,
+                    "wins": 0
+                },
+                "54": {
+                    "divisionId": 19,
+                    "draws": 0,
+                    "form": [
+                        "w",
+                        "w",
+                        "w",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 56,
+                    "wins": 0
+                }
+            }
+        },
+        "2": {
+            "13": {
+                "16": {
+                    "divisionId": 13,
+                    "dnfAfterWeeks": 9,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 178,
+                    "wins": 0
+                },
+                "18": {
+                    "divisionId": 13,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "l",
+                        "l",
+                        "l",
+                        "l"
+                    ],
+                    "goalDifference": -43,
+                    "losses": 15,
+                    "matches": 16,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 3,
+                    "score": [
+                        22,
+                        65
+                    ],
+                    "userId": 180,
+                    "wins": 1
+                },
+                "19": {
+                    "divisionId": 13,
+                    "draws": 2,
+                    "form": [
+                        "d",
+                        "w",
+                        "w",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 41,
+                    "losses": 2,
+                    "matches": 16,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 38,
+                    "score": [
+                        72,
+                        31
+                    ],
+                    "userId": 181,
+                    "wins": 12
+                },
+                "21": {
+                    "divisionId": 13,
+                    "dnfAfterWeeks": 0,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 182,
+                    "wins": 0
+                },
+                "22": {
+                    "divisionId": 13,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "l",
+                        "l",
+                        "w",
+                        "l"
+                    ],
+                    "goalDifference": -37,
+                    "losses": 12,
+                    "matches": 16,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 12,
+                    "score": [
+                        33,
+                        70
+                    ],
+                    "userId": 183,
+                    "wins": 4
+                },
+                "23": {
+                    "divisionId": 13,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 138,
+                    "wins": 0
+                },
+                "26": {
+                    "divisionId": 13,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 185,
+                    "wins": 0
+                },
+                "30": {
+                    "divisionId": 13,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 188,
+                    "wins": 0
+                },
+                "32": {
+                    "divisionId": 13,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 77,
+                    "wins": 0
+                },
+                "35": {
+                    "divisionId": 13,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 189,
+                    "wins": 0
+                },
+                "36": {
+                    "divisionId": 13,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "l",
+                        "l",
+                        "l",
+                        "w"
+                    ],
+                    "goalDifference": -36,
+                    "losses": 13,
+                    "matches": 16,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 9,
+                    "score": [
+                        27,
+                        63
+                    ],
+                    "userId": 101,
+                    "wins": 3
+                },
+                "37": {
+                    "divisionId": 13,
+                    "draws": 1,
+                    "form": [
+                        "w",
+                        "l",
+                        "l",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 28,
+                    "losses": 4,
+                    "matches": 16,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 34,
+                    "score": [
+                        57,
+                        29
+                    ],
+                    "userId": 190,
+                    "wins": 11
+                },
+                "38": {
+                    "divisionId": 13,
+                    "draws": 0,
+                    "form": [
+                        "w",
+                        "w",
+                        "w",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 37,
+                    "losses": 2,
+                    "matches": 16,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 42,
+                    "score": [
+                        61,
+                        24
+                    ],
+                    "userId": 173,
+                    "wins": 14
+                },
+                "39": {
+                    "divisionId": 13,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 191,
+                    "wins": 0
+                },
+                "43": {
+                    "divisionId": 13,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 193,
+                    "wins": 0
+                },
+                "44": {
+                    "divisionId": 13,
+                    "draws": 0,
+                    "form": [
+                        "w",
+                        "l",
+                        "l",
+                        "w",
+                        "l"
+                    ],
+                    "goalDifference": 6,
+                    "losses": 8,
+                    "matches": 16,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 24,
+                    "score": [
+                        47,
+                        41
+                    ],
+                    "userId": 194,
+                    "wins": 8
+                },
+                "45": {
+                    "divisionId": 13,
+                    "draws": 0,
+                    "form": [
+                        "w",
+                        "w",
+                        "w",
+                        "l",
+                        "l"
+                    ],
+                    "goalDifference": -9,
+                    "losses": 8,
+                    "matches": 16,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 24,
+                    "score": [
+                        36,
+                        45
+                    ],
+                    "userId": 195,
+                    "wins": 8
+                },
+                "46": {
+                    "divisionId": 13,
+                    "draws": 1,
+                    "form": [
+                        "l",
+                        "w",
+                        "w",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 13,
+                    "losses": 6,
+                    "matches": 16,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 28,
+                    "score": [
+                        53,
+                        40
+                    ],
+                    "userId": 23,
+                    "wins": 9
+                }
+            }
+        },
+        "3": {
+            "13": {
+                "59": {
+                    "divisionId": 13,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 183,
+                    "wins": 0
+                }
+            }
+        }
+    },
+    "2": {
+        "2": {
+            "17": {
+                "24": {
+                    "divisionId": 17,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 138,
+                    "wins": 0
+                }
+            }
+        },
+        "3": {
+            "17": {
+                "67": {
+                    "divisionId": 17,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 190,
+                    "wins": 0
+                }
+            }
+        }
+    },
+    "3": {
+        "1": {
+            "15": {
+                "6": {
+                    "divisionId": 15,
+                    "dnfAfterWeeks": 18,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 3,
+                    "wins": 0
+                },
+                "8": {
+                    "divisionId": 15,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "l"
+                    ],
+                    "goalDifference": -11,
+                    "losses": 2,
+                    "matches": 2,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        11
+                    ],
+                    "userId": 17,
+                    "wins": 0
+                },
+                "9": {
+                    "divisionId": 15,
+                    "draws": 0,
+                    "form": [
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 11,
+                    "losses": 0,
+                    "matches": 2,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 6,
+                    "score": [
+                        11,
+                        0
+                    ],
+                    "userId": 1,
+                    "wins": 2
+                }
+            }
+        },
+        "2": {
+            "15": {
+                "14": {
+                    "divisionId": 15,
+                    "draws": 1,
+                    "form": [
+                        "w",
+                        "l",
+                        "d",
+                        "l",
+                        "w"
+                    ],
+                    "goalDifference": 6,
+                    "losses": 2,
+                    "matches": 6,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 10,
+                    "score": [
+                        14,
+                        8
+                    ],
+                    "userId": 1,
+                    "wins": 3
+                },
+                "20": {
+                    "divisionId": 15,
+                    "dnfAfterWeeks": 9,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 37,
+                    "wins": 0
+                },
+                "27": {
+                    "divisionId": 15,
+                    "draws": 1,
+                    "form": [
+                        "w",
+                        "w",
+                        "d",
+                        "l",
+                        "l"
+                    ],
+                    "goalDifference": -5,
+                    "losses": 3,
+                    "matches": 6,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 7,
+                    "score": [
+                        11,
+                        16
+                    ],
+                    "userId": 182,
+                    "wins": 2
+                },
+                "31": {
+                    "divisionId": 15,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "w",
+                        "l",
+                        "w",
+                        "l"
+                    ],
+                    "goalDifference": -6,
+                    "losses": 4,
+                    "matches": 6,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 6,
+                    "score": [
+                        7,
+                        13
+                    ],
+                    "userId": 3,
+                    "wins": 2
+                },
+                "34": {
+                    "divisionId": 15,
+                    "draws": 2,
+                    "form": [
+                        "w",
+                        "l",
+                        "d",
+                        "w",
+                        "d"
+                    ],
+                    "goalDifference": 5,
+                    "losses": 1,
+                    "matches": 6,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 11,
+                    "score": [
+                        15,
+                        10
+                    ],
+                    "userId": 50,
+                    "wins": 3
+                }
+            }
+        },
+        "3": {
+            "15": {
+                "55": {
+                    "divisionId": 15,
+                    "dnfAfterWeeks": 11,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 1,
+                    "wins": 0
+                },
+                "60": {
+                    "divisionId": 15,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "l",
+                        "l",
+                        "l"
+                    ],
+                    "goalDifference": -10,
+                    "losses": 4,
+                    "matches": 4,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        2,
+                        12
+                    ],
+                    "userId": 182,
+                    "wins": 0
+                },
+                "63": {
+                    "divisionId": 15,
+                    "draws": 1,
+                    "form": [
+                        "d",
+                        "w",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 9,
+                    "losses": 0,
+                    "matches": 4,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 10,
+                    "score": [
+                        12,
+                        3
+                    ],
+                    "userId": 50,
+                    "wins": 3
+                },
+                "65": {
+                    "divisionId": 15,
+                    "dnfAfterWeeks": 11,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 3,
+                    "wins": 0
+                },
+                "69": {
+                    "divisionId": 15,
+                    "draws": 1,
+                    "form": [
+                        "w",
+                        "w",
+                        "d",
+                        "l"
+                    ],
+                    "goalDifference": 1,
+                    "losses": 1,
+                    "matches": 4,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 7,
+                    "score": [
+                        9,
+                        8
+                    ],
+                    "userId": 10,
+                    "wins": 2
+                }
+            }
+        }
+    },
+    "4": {
+        "1": {
+            "14": {
+                "1": {
+                    "divisionId": 14,
+                    "draws": 0,
+                    "form": [
+                        "w",
+                        "l",
+                        "l",
+                        "otl",
+                        "l"
+                    ],
+                    "goalDifference": -1,
+                    "losses": 3,
+                    "matches": 6,
+                    "overtimeLosses": 1,
+                    "overtimeWins": 0,
+                    "points": 7,
+                    "score": [
+                        13,
+                        14
+                    ],
+                    "userId": 1,
+                    "wins": 2
+                },
+                "2": {
+                    "divisionId": 14,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "l",
+                        "l",
+                        "l",
+                        "w"
+                    ],
+                    "goalDifference": -14,
+                    "losses": 5,
+                    "matches": 6,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 3,
+                    "score": [
+                        9,
+                        23
+                    ],
+                    "userId": 6,
+                    "wins": 1
+                },
+                "11": {
+                    "divisionId": 14,
+                    "draws": 0,
+                    "form": [
+                        "w",
+                        "w",
+                        "w",
+                        "w",
+                        "l"
+                    ],
+                    "goalDifference": 11,
+                    "losses": 1,
+                    "matches": 6,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 15,
+                    "score": [
+                        17,
+                        6
+                    ],
+                    "userId": 50,
+                    "wins": 5
+                },
+                "13": {
+                    "divisionId": 14,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "l",
+                        "w",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 4,
+                    "losses": 2,
+                    "matches": 6,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 1,
+                    "points": 11,
+                    "score": [
+                        15,
+                        11
+                    ],
+                    "userId": 10,
+                    "wins": 3
+                }
+            },
+            "21": {
+                "48": {
+                    "divisionId": 21,
+                    "draws": 0,
+                    "form": [
+                        "otw",
+                        "w",
+                        "otw",
+                        "l",
+                        "l"
+                    ],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 50,
+                    "wins": 0
+                },
+                "49": {
+                    "divisionId": 21,
+                    "draws": 0,
+                    "form": [
+                        "l"
+                    ],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 6,
+                    "wins": 0
+                },
+                "50": {
+                    "divisionId": 21,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "l",
+                        "l"
+                    ],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 1,
+                    "wins": 0
+                },
+                "51": {
+                    "divisionId": 21,
+                    "draws": 0,
+                    "form": [
+                        "otl",
+                        "l",
+                        "otl",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 10,
+                    "wins": 0
+                }
+            }
+        },
+        "2": {
+            "14": {
+                "15": {
+                    "divisionId": 14,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "otl",
+                        "l",
+                        "l"
+                    ],
+                    "goalDifference": -6,
+                    "losses": 3,
+                    "matches": 4,
+                    "overtimeLosses": 1,
+                    "overtimeWins": 0,
+                    "points": 1,
+                    "score": [
+                        5,
+                        11
+                    ],
+                    "userId": 1,
+                    "wins": 0
+                },
+                "25": {
+                    "divisionId": 14,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 184,
+                    "wins": 0
+                },
+                "33": {
+                    "divisionId": 14,
+                    "draws": 0,
+                    "form": [
+                        "w",
+                        "w",
+                        "w",
+                        "w"
+                    ],
+                    "goalDifference": 13,
+                    "losses": 0,
+                    "matches": 4,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 12,
+                    "score": [
+                        16,
+                        3
+                    ],
+                    "userId": 50,
+                    "wins": 4
+                },
+                "47": {
+                    "divisionId": 14,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "l",
+                        "w",
+                        "otw"
+                    ],
+                    "goalDifference": -7,
+                    "losses": 2,
+                    "matches": 4,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 1,
+                    "points": 5,
+                    "score": [
+                        8,
+                        15
+                    ],
+                    "userId": 10,
+                    "wins": 1
+                }
+            }
+        },
+        "3": {
+            "14": {
+                "56": {
+                    "divisionId": 14,
+                    "dnfAfterWeeks": 11,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 1,
+                    "wins": 0
+                },
+                "61": {
+                    "divisionId": 14,
+                    "dnfAfterWeeks": 11,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 3,
+                    "wins": 0
+                },
+                "64": {
+                    "divisionId": 14,
+                    "draws": 0,
+                    "form": [
+                        "l",
+                        "w"
+                    ],
+                    "goalDifference": -2,
+                    "losses": 1,
+                    "matches": 2,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 3,
+                    "score": [
+                        2,
+                        4
+                    ],
+                    "userId": 50,
+                    "wins": 1
+                },
+                "66": {
+                    "divisionId": 14,
+                    "draws": 0,
+                    "form": [
+                        "w",
+                        "l"
+                    ],
+                    "goalDifference": 2,
+                    "losses": 1,
+                    "matches": 2,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 3,
+                    "score": [
+                        4,
+                        2
+                    ],
+                    "userId": 10,
+                    "wins": 1
+                }
+            }
+        }
+    },
+    "5": {
+        "2": {
+            "16": {
+                "17": {
+                    "divisionId": 16,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 179,
+                    "wins": 0
+                },
+                "29": {
+                    "divisionId": 16,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 187,
+                    "wins": 0
+                },
+                "40": {
+                    "divisionId": 16,
+                    "dnfAfterWeeks": 2,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 2,
+                    "wins": 0
+                }
+            }
+        },
+        "3": {
+            "16": {
+                "62": {
+                    "divisionId": 16,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 198,
+                    "wins": 0
+                },
+                "68": {
+                    "divisionId": 16,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 93,
+                    "wins": 0
+                }
+            }
+        }
+    },
+    "6": {
+        "2": {
+            "18": {
+                "41": {
+                    "divisionId": 18,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 2,
+                    "wins": 0
+                }
+            }
+        }
+    },
+    "null": {
+        "2": {
+            "null": {
+                "28": {
+                    "divisionId": null,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 186,
+                    "wins": 0
+                },
+                "42": {
+                    "divisionId": null,
+                    "draws": 0,
+                    "form": [],
+                    "goalDifference": 0,
+                    "losses": 0,
+                    "matches": 0,
+                    "overtimeLosses": 0,
+                    "overtimeWins": 0,
+                    "points": 0,
+                    "score": [
+                        0,
+                        0
+                    ],
+                    "userId": 192,
+                    "wins": 0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "1": {
+        "name": "league",
+        "weight": 40
+    },
+    "2": {
+        "name": "qualification",
+        "weight": 25
+    },
+    "3": {
+        "name": "friendly",
+        "weight": 10
+    },
+    "4": {
+        "name": "playOff",
+        "weight": 60
+    }
+}
