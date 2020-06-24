@@ -306,31 +306,23 @@
             const {getters, state} = this.$store;
             const {touchscreen} = getters;
 
-            if (!this.stylesSet && document.querySelector(`#chat-application`))
+            if (document.querySelector<HTMLDivElement>(`#chat-application`))
             {
-                this.chatApplication = document.querySelector(`#chat-application`) as HTMLElement;
-                this.stylesSet = true;
+                this.chatApplication = document.querySelector<HTMLDivElement>(`#chat-application`) as HTMLDivElement;
             }
 
             const left: number = (Number(!state.navVisible) * -this.navWidth) + (Number(touchscreen) * 10);
             window._smartsupp.offsetX = left;
 
-            if (this.stylesSet)
+            if (this.chatApplication)
             {
-                // eslint-disable-next-line no-unused-expressions
-                (this.chatApplication.querySelector(`:scope > iframe`) as HTMLIFrameElement | null)?.contentDocument?.head.insertAdjacentHTML(
-                    `beforeend`,
-                    `<style>${this.chatStyles}</style>`
-                );
                 this.chatApplication.className = state.navVisible ? `app-nav-visible` : `app-nav-invisible`;
             }
 
             return left;
         }
 
-        public chatStyles: string = `#buttonPanel, #widgetPanel{left: 50% !important; transform: translateX(-50%) !important;}`;
-        public chatApplication!: HTMLElement;
-        public stylesSet: boolean = false;
+        public chatApplication!: HTMLDivElement;
 
         public get navLinks(): [string, SectionValue][]
         {
@@ -621,21 +613,25 @@
         font-size smaller
 
     #chat-application
-        min-width $navWidth !important
+        bottom 10px !important
+        left (($navWidth / 2) - 56px) !important
         transition left .5s !important
         z 5 !important
 
         @media (max-width 1023px)
-            min-width $navWidthTouchscreen !important
+            left (($navWidthTouchscreen / 2) - 56px) !important
 
         &.app-nav-visible
-            left 0 !important
-
-        &.app-nav-invisible
-            left (-($navWidth)) !important
+            left (($navWidth / 2) - 56px) !important
 
             @media (max-width 1023px)
-                left (-($navWidthTouchscreen)) !important
+                left (($navWidthTouchscreen / 2) - 56px) !important
+
+        &.app-nav-invisible
+            left (-($navWidth) + (($navWidth / 2) - 56px)) !important
+
+            @media (max-width 1023px)
+                left (-$navWidthTouchscreen + (($navWidthTouchscreen / 2) - 56px)) !important
 
     .connectivity
         border-radius 50%
@@ -706,7 +702,8 @@
             color #878787
 
     footer
-        margin-bottom 35px
+        line-height 1
+        margin-bottom 76px
 
     h1
         font-size 2.5em
