@@ -10,6 +10,7 @@ export default class UserDropdownContainerMixin extends mixins(MainMixin, FormMi
 {
     public computedPropertiesUpdateCustom({element}: {element: FormElement}): void
     {
+        this.computedPropertiesUpdate({element});
     }
 
     public userBlurOn({element})
@@ -22,7 +23,7 @@ export default class UserDropdownContainerMixin extends mixins(MainMixin, FormMi
         const id: number = Number(Object.keys(user));
         this.propertiesUpdate({element, props: {id, value: user[id].username}});
 
-        this[this.computedPropertiesUpdateCustom ? `computedPropertiesUpdateCustom` : `computedPropertiesUpdate`]({element});
+        this.computedPropertiesUpdateCustom({element});
         element.dropdown.visibility = false;
     }
 
