@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a9fef3edfeb90160b75442d1fd4e18b7.js"
+  "/precache-manifest.397a8ad5a50d68f4ccbc80fc88c98bc8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fifamaniaci-client"});
