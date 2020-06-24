@@ -35,7 +35,7 @@
             return {...this.columns, playedAt: {...playedAt, join: ` - `, minimalist: true, type: `date[]`}};
         }
 
-        public get rows(): {[s: string]: Omit<LeagueMatchValue, 'id'>}
+        public get rows(): {[s: string]: Omit<Merge<LeagueMatchValue, {playedAt: [string, string]}>, 'id'>}
         {
             const {getters, state} = this.$store;
             const {leagueSeason: {seasonStart: leagueStart}} = getters;
