@@ -161,7 +161,7 @@
                     return null;
                 }
 
-                const userEntries = Object.entries(state.users.value as { [s: string]: UserValue }).find(([, user]) =>
+                const userEntries = Object.entries(state.users.value as { [s: string]: Omit<UserValue, 'id'> }).find(([, user]) =>
                 {
                     return user.username.toLowerCase() === params.username.toLowerCase();
                 });
@@ -171,7 +171,7 @@
                     return null;
                 }
 
-                return {id: userEntries[0], ...userEntries[1]};
+                return {id: parseInt(userEntries[0]), ...userEntries[1]};
             };
 
             return state.profileUsername === userLogged.username ? userLogged : userOtherGet();
