@@ -70,7 +70,7 @@ const stateExportable: {
     matches: Merge<StoreTable<MatchValue>, {
         sides: MatchSide[],
         unseenPersonalCondition(match: Omit<MatchValue, 'id'>): boolean
-        value: { [s: string]: { [s: string]: MatchValue } }
+        value: { [s: string]: { [s: string]: Omit<MatchValue, 'id'> } }
     }>,
     matchesTypes: Merge<StoreTable<MatchesTypeValue>, {
         leagueTypes: MatchesTypeName[]
@@ -379,10 +379,10 @@ const stateExportable: {
                 return store.state.leagueRegistrations.rowsSortCompareFn([``, leagueRegistrations.find((leagueRegistration) =>
                 {
                     return leagueRegistration.userId === leagueTableRecordA.userId;
-                })], [``, leagueRegistrations.find((leagueRegistration) =>
+                }) as LeagueRegistrationValue], [``, leagueRegistrations.find((leagueRegistration) =>
                 {
                     return leagueRegistration.userId === leagueTableRecordB.userId;
-                })]);
+                }) as LeagueRegistrationValue]);
             }
 
             return dnfAfterWeeksB - dnfAfterWeeksA || leagueTableRecordB.points - leagueTableRecordA.points
