@@ -15,6 +15,7 @@ module.exports = {
         'default-case': 'off',
         indent: 'off',
         'indent-legacy': 'off',
+        'import/no-extraneous-dependencies': ['error', {'devDependencies': true, 'optionalDependencies': false, 'peerDependencies': false}],
         'import/prefer-default-export': 'off',
         'linebreak-style': ['error', 'windows'],
         'newline-per-chained-call': 'off',
