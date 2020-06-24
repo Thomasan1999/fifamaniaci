@@ -7,7 +7,6 @@ import VueCookies            from '@/plugins/VueCookies';
 import router                from '@/router';
 import Tomwork               from '@/plugins/Tomwork';
 import {StoreState}          from '@/vue-extend.d';
-import locales               from '../../../server/src/locales/sk';
 import dbCategories          from '@/db/categories.json';
 import dbDivisions           from '@/db/divisions.json';
 import dbLeagueRegistrations from '@/db/leagueRegistrations.json';
@@ -75,7 +74,7 @@ const stateExportable: {
         value: { [s: string]: Partial<TabValue> }
     },
     locales: {
-        value: { [s: string]: typeof locales }
+        value: { [s: string]: typeof dbLocales }
     },
     matches: Merge<StoreTable<MatchValue>, {
         sides: MatchSide[],
@@ -385,10 +384,10 @@ const stateExportable: {
                 return store.state.leagueRegistrations.rowsSortCompareFn([``, leagueRegistrations.find((leagueRegistration) =>
                 {
                     return leagueRegistration.userId === leagueTableRecordA.userId;
-                })], [``, leagueRegistrations.find((leagueRegistration) =>
+                }) as LeagueRegistrationValue], [``, leagueRegistrations.find((leagueRegistration) =>
                 {
                     return leagueRegistration.userId === leagueTableRecordB.userId;
-                })]);
+                }) as LeagueRegistrationValue]);
             }
 
             return dnfAfterWeeksB - dnfAfterWeeksA || leagueTableRecordB.points - leagueTableRecordA.points
